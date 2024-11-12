@@ -8,7 +8,8 @@ import io.cucumber.testng.CucumberOptions;
 (
 	features= {"src\\test\\resources\\login.feature"},
 	glue = {"stepDefination"},
-	plugin= {"pretty"}
+	plugin= {"pretty"},
+	publish = true
 )
 
 public class RunnerClass extends AbstractTestNGCucumberTests{
