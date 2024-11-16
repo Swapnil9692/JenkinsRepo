@@ -7,11 +7,11 @@ import io.cucumber.java.en.When;
 public class StepDefinationClass {
 
 	
-//	@Given("User should be on login page")
-//	public void user_should_be_on_login_page() {
-//	    
-//		System.out.println("User is at login page");
-//	}
+	@Given("User should be on login page")
+	public void user_should_be_on_login_page() {
+	    
+		System.out.println("User is at login page");
+	}
 
 	@When("User should enter the username")
 	public void user_should_enter_the_username() {
