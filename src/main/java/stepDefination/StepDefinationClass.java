@@ -31,6 +31,7 @@ public class StepDefinationClass {
 	@Then("User should be logged in")
 	public void user_should_be_logged_in() {
 		System.out.println("User is homepage");
+		System.out.println("User is homepage & mission Completed");
 	}
 
 }
