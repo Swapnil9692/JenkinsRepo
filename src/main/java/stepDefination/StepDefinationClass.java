@@ -33,6 +33,7 @@ public class StepDefinationClass {
 		System.out.println("User is homepage");
 		System.out.println("User is homepage & mission Completed");
 		System.out.println("User is homepage & mission Completed 1");
+		System.out.println("User is homepage & mission Completed 2");
 	}
 
 }
