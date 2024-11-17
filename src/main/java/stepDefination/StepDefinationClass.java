@@ -32,6 +32,7 @@ public class StepDefinationClass {
 	public void user_should_be_logged_in() {
 		System.out.println("User is homepage");
 		System.out.println("User is homepage & mission Completed");
+		System.out.println("User is homepage & mission Completed 1");
 	}
 
 }
